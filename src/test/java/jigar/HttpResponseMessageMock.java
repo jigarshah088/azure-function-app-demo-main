@@ -4,7 +4,7 @@ import com.microsoft.azure.functions.*;
 
 import java.util.Map;
 import java.util.HashMap;
-
+/** **/
 /**
  * The mock for HttpResponseMessage, can be used in unit tests to verify if the
  * returned response by HTTP trigger function is correct or not.
