@@ -1,4 +1,4 @@
-package suminda;
+package jigar;
 
 import com.microsoft.azure.functions.*;
 
